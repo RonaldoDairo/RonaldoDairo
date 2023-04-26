@@ -5,9 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Some Project**
 
-- 👨‍💻 All of my projects are available at [https://ronaldodairo.github.io](https://ronaldodairo.github.io)
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **I'm autodidact**
 
 - 📫 How to reach me **dairoxd155@gmail.com**
 
